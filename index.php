@@ -85,7 +85,7 @@
                                     <li class=''><a href="#">What we do </a></li>
                                     <li class=''><a href="#">Contact US </a></li>
                                   
-                                  
+
                                     
                             
                             </ul>
@@ -358,10 +358,16 @@ Interested parties must get in touch with the company through our phone numbers 
 
 <section class="grupo_cochan_home default">
         <div class="content">
-	<h2 class="misto-title"><span>Cochan group</span></h2>
-
-	<hr class="bluebar" />
-	<p><span lang="EN-GB" style="color:black">Cochan is one of the main business groups in Angola. Established in 2009 by businessman Leopoldino Fragoso do Nascimento, it manages a diversified investment portfolio in the areas of Agriculture, Food Retail, Energy, Real Estate, Industry and Transportation &amp; Logistics. It helps to develop and diversify the Angolan economy. The group’s investments employ more than 13,000 people and follow a positive investment policy.</span></p>
+        <h2 class="misto-title"> Executive <span>Internation Trading </span></h2>
+       
+        <hr class="bluebar" />
+                                        
+        <p><span lang="EN-GB" style="color:black"> We are dealing with copper, cobalt diamonds and gold<br/>
+We deal with frozen products such as frozen chicken, frozen beef. We also trade in sugar, rice, soybeans, edible oil, corn, pasta, dairy etc
+<br/>
+Interested parties must get in touch with the company through our phone numbers and email address
+ 
+    </span></p>
 
 	<div class="statitics-flex">
 		<div class="statitics-child"><img alt="" src="./imgs//_cones-09.png" />
