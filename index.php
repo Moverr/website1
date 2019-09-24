@@ -79,7 +79,10 @@
         <div class="logo_menu"><a href="#" class='top_logo'></a></div>
         <div class='top_menu'>
             <ul>
-                                    <li class='active'><a href="./en">Home</a></li><li class='with_sub '><a href="./en/about-cochan">Cochan Group</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Cochan Group</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="./en/about-cochan">About Cochan</a></li><li class=''><a href="./en/chairman-message">Chairman&#039;s Message</a></li><li class=''><a href="./en/management-team">Management Team</a></li><li class=''><a href="./en/mission-and-values">Mission and Values</a></li><li class=''><a href="./en/social-corporate-responsibility">Corporate Social Responsibility</a></li></ul></div></div><li class='with_sub '><a href="./en/business-areas/global-vision">Business Areas</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Business Areas</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="./en/business-areas/global-vision">Global Vision</a></li><li class=''><a href="./en/business-areas/agro-industrial">Agro-Industrial</a></li><li class=''><a href="./en/business-areas/distribution-and-retail">Distribution and Retail</a></li><li class=''><a href="./en/business-areas/energy">Energy</a></li><li class=''><a href="./en/business-areas/real-estate">Real Estate</a></li><li class=''><a href="./en/business-areas/transport-and-logistics">Transport and Logistics</a></li></ul></div></div><li class='with_sub '><a href="./en/news">Media Room</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Media Room</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="./en/news">News</a></li><li class=''><a href="./en/comunicados-de-imprensa-en">Press Releases</a></li><li class=''><a href="./en/photos-video">Photos &amp; Videos</a></li><li class=''><a href="./en/media-room-contactos">Press Contacts</a></li></ul></div></div><li class=''><a href="./en/contacts">Contacts</a></li>
+                                    <li class='active'><a href="./">Home</a></li>
+                                    <li  ><a href="./aboutus.php">About Us</a></li>
+                                    
+                                    <li class='with_sub '><a href="./en/about-cochan">Cochan Group</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Cochan Group</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="./en/about-cochan">About Cochan</a></li><li class=''><a href="./en/chairman-message">Chairman&#039;s Message</a></li><li class=''><a href="./en/management-team">Management Team</a></li><li class=''><a href="./en/mission-and-values">Mission and Values</a></li><li class=''><a href="./en/social-corporate-responsibility">Corporate Social Responsibility</a></li></ul></div></div><li class='with_sub '><a href="./en/business-areas/global-vision">Business Areas</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Business Areas</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="./en/business-areas/global-vision">Global Vision</a></li><li class=''><a href="./en/business-areas/agro-industrial">Agro-Industrial</a></li><li class=''><a href="./en/business-areas/distribution-and-retail">Distribution and Retail</a></li><li class=''><a href="./en/business-areas/energy">Energy</a></li><li class=''><a href="./en/business-areas/real-estate">Real Estate</a></li><li class=''><a href="./en/business-areas/transport-and-logistics">Transport and Logistics</a></li></ul></div></div><li class='with_sub '><a href="./en/news">Media Room</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Media Room</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="./en/news">News</a></li><li class=''><a href="./en/comunicados-de-imprensa-en">Press Releases</a></li><li class=''><a href="./en/photos-video">Photos &amp; Videos</a></li><li class=''><a href="./en/media-room-contactos">Press Contacts</a></li></ul></div></div><li class=''><a href="./en/contacts">Contacts</a></li>
                             </ul>
         </div>
         <div class="top_right">
@@ -130,15 +133,16 @@
         
         <div class="content">
                         <h1 class="banner-title  misto  ">
-                Positive <span>Investment</span>
+                Executive <span>Internation Trading </span>
             </h1>
                                         <hr class="banner-hr">
-                                    <p>"We believe that investments should be a driver of change,<br />
-	both within the economy and in society.<br />
-	There is no reason to have modest ambitions.”</p>
+                                        <p>We are dealing with copper, cobalt diamonds and gold<br/>
+We deal with frozen products such as frozen chicken, frozen beef. We also trade in sugar, rice, soybeans, edible oil, corn, pasta, dairy etc
+<br/>
+Interested parties must get in touch with the company through our phone numbers and email address
 
-<p><small>Leopoldino Fragoso do Nascimento<br />
-	Chairman</small></p>
+</p>
+                               
 
                                     </div>
 
