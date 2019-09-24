@@ -28,7 +28,7 @@
     <meta name="twitter:url" content="./en" />
     <meta name="twitter:image" content="../imgs//58ef705540099.jpg" />
 
-    <title>Homepage | Cochan</title>
+    <title>Homepage</title>
     <link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="./css/app.css">
     <style>
@@ -81,8 +81,13 @@
             <ul>
                                     <li class='active'><a href="./">Home</a></li>
                                     <li  ><a href="./aboutus.php">About Us</a></li>
+
+                                    <li class=''><a href="#">What we do </a></li>
+                                    <li class=''><a href="#">Contact US </a></li>
+                                  
+                                  
                                     
-                                    <li class='with_sub '><a href="./en/about-cochan">Cochan Group</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Cochan Group</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="./en/about-cochan">About Cochan</a></li><li class=''><a href="./en/chairman-message">Chairman&#039;s Message</a></li><li class=''><a href="./en/management-team">Management Team</a></li><li class=''><a href="./en/mission-and-values">Mission and Values</a></li><li class=''><a href="./en/social-corporate-responsibility">Corporate Social Responsibility</a></li></ul></div></div><li class='with_sub '><a href="./en/business-areas/global-vision">Business Areas</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Business Areas</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="./en/business-areas/global-vision">Global Vision</a></li><li class=''><a href="./en/business-areas/agro-industrial">Agro-Industrial</a></li><li class=''><a href="./en/business-areas/distribution-and-retail">Distribution and Retail</a></li><li class=''><a href="./en/business-areas/energy">Energy</a></li><li class=''><a href="./en/business-areas/real-estate">Real Estate</a></li><li class=''><a href="./en/business-areas/transport-and-logistics">Transport and Logistics</a></li></ul></div></div><li class='with_sub '><a href="./en/news">Media Room</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Media Room</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="./en/news">News</a></li><li class=''><a href="./en/comunicados-de-imprensa-en">Press Releases</a></li><li class=''><a href="./en/photos-video">Photos &amp; Videos</a></li><li class=''><a href="./en/media-room-contactos">Press Contacts</a></li></ul></div></div><li class=''><a href="./en/contacts">Contacts</a></li>
+                            
                             </ul>
         </div>
         <div class="top_right">
