@@ -28,14 +28,14 @@
     <meta name="twitter:image" content="images/Pan_African.jpg" />
 
     <title>News | Cochan</title>
-    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="#/css/app.css">
+    <link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="./css/app.css">
     <style>
                             .banner-bg {
                 background-image: url('images/Pan_African.jpg');
             }
                 </style>
-       
+        
     <script>
     window.addEventListener("load", function(){
     window.cookieconsent.initialise({
@@ -70,7 +70,8 @@
                                     <li class='active'><a href="#">About us</a></li>
                                     
                                     
-                                    <li class='with_sub '><a href="##">Cochan Group</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Cochan Group</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="##">About Cochan</a></li><li class=''><a href="#/chairman-message">Chairman&#039;s Message</a></li><li class=''><a href="#/management-team">Management Team</a></li><li class=''><a href="#/mission-and-values">Mission and Values</a></li><li class=''><a href="#/social-corporate-responsibility">Corporate Social Responsibility</a></li></ul></div></div><li class='with_sub '><a href="#/business-areas/global-vision">Business Areas</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Business Areas</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="#/business-areas/global-vision">Global Vision</a></li><li class=''><a href="#/business-areas/agro-industrial">Agro-Industrial</a></li><li class=''><a href="#/business-areas/distribution-and-retail">Distribution and Retail</a></li><li class=''><a href="#/business-areas/energy">Energy</a></li><li class=''><a href="#/business-areas/real-estate">Real Estate</a></li><li class=''><a href="#/business-areas/transport-and-logistics">Transport and Logistics</a></li></ul></div></div><li class='with_sub'><a href="#">Media Room</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Media Room</h3><hr class="bluebar"></div><ul class="links"><li class='active'><a href="#">News</a></li><li class=''><a href="#/comunicados-de-imprensa-en">Press Releases</a></li><li class=''><a href="#/photos-video">Photos &amp; Videos</a></li><li class=''><a href="#/media-room-contactos">Press Contacts</a></li></ul></div></div><li class=''><a href="#/contacts">Contacts</a></li>
+                                    <li class='with_sub '><a href="#">Cochan Group</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Cochan Group</h3><hr class="bluebar"></div>
+                                    <ul class="links"><li class=''><a href="#">About Us</a></li><li class=''><a href="#/chairman-message">Chairman&#039;s Message</a></li><li class=''><a href="#/management-team">Management Team</a></li><li class=''><a href="#/mission-and-values">Mission and Values</a></li><li class=''><a href="#/social-corporate-responsibility">Corporate Social Responsibility</a></li></ul></div></div><li class='with_sub '><a href="#/business-areas/global-vision">Business Areas</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Business Areas</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="#/business-areas/global-vision">Global Vision</a></li><li class=''><a href="#/business-areas/agro-industrial">Agro-Industrial</a></li><li class=''><a href="#/business-areas/distribution-and-retail">Distribution and Retail</a></li><li class=''><a href="#/business-areas/energy">Energy</a></li><li class=''><a href="#/business-areas/real-estate">Real Estate</a></li><li class=''><a href="#/business-areas/transport-and-logistics">Transport and Logistics</a></li></ul></div></div><li class='with_sub'><a href="#">Media Room</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Media Room</h3><hr class="bluebar"></div><ul class="links"><li class='active'><a href="#">News</a></li><li class=''><a href="#/comunicados-de-imprensa-en">Press Releases</a></li><li class=''><a href="#/photos-video">Photos &amp; Videos</a></li><li class=''><a href="#/media-room-contactos">Press Contacts</a></li></ul></div></div><li class=''><a href="#/contacts">Contacts</a></li>
                             </ul>
         </div>
         <div class="top_right">
@@ -138,10 +139,10 @@
                     </div>
                 </div>
                 
-                <div class='page '>
+                <div class='page ' style="text-align:">
                 <h1>About Us</h1>
 
-                <p style="text-align:justif">
+                <p style="text-align:justify;">
                 Executive International Trading LLC, is a commodities trading company based in Dubai - UAE. Executive International Trading benefits from its owners experience of more than 30 years, operating in diverse regions such as: Africa, Asia, Europe, Latin America and Middle East. 
 
                 The company benefits from long lasting and mutual beneficial relationships from agro producers and mining companies and deals with most of the products in the hard and soft commodities spectrum.
@@ -262,20 +263,7 @@
     </div>        
                     
                                         
-            <ul class="pagination">
-        
-                    <li class="disabled"><span>&laquo;</span></li>
-        
-        
-                    
-            
-            
-                                                                        <li class="active"><span>1</span></li>
-                                                                                <li><a href="#?gmb_1=2">2</a></li>
-                                                        
-        
-                    <li><a href="#?gmb_1=2" rel="next">&raquo;</a></li>
-            </ul>
+           
 
                 </section>
                 </div>
@@ -297,17 +285,18 @@
                 <li><a href="/en/contacts">Contacts</a>
             </ul>
         </nav>
-                <div class='copyright center'>&copy; Copyright 2017 GRUPO COCHAN</div>
+                <div class='copyright center'>&copy;  2019</div>
         <div class='social'>
                     </div>
     </div>
 </footer>
     </div>
+ 
+<script src="./js/jquery.min.js"></script>
+<script src="./js/app.js"></script>
+<script src="./js/jquery.waypoints.min.js"></script>
+<script src="./js/inview.min.js"></script>
 
-<script src="#/js/jquery.min.js"></script>
-<script src="#/js/app.js"></script>
-<script src="#/js/jquery.waypoints.min.js"></script>
-<script src="#/js/inview.min.js"></script>
 
 <script>
 // fadein effect
