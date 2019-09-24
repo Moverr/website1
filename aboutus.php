@@ -10,45 +10,41 @@
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-    <meta name="csrf-token" content="QClaohRM9NPlfUHDTRF0fwzrlhzJUCnW5okRz0Q8">
+    <meta name="csrf-token" content="lOpL6XGnhzogfYjZDDA65VCiAnrKhsME0DZFy7iv">
 
-    <meta name="description" content="&quot;We believe that investments should be a driver of change,	both within the economy and in society.	There is no reason to have modest ambitions.”Leopoldino Fragoso do Nascimento	Chairman">
+    <meta name="description" content="">
 
     
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Homepage" />
-    <meta property="og:url" content="./en" />
-    <meta property="og:description" content="&quot;We believe that investments should be a driver of change,	both within the economy and in society.	There is no reason to have modest ambitions.”Leopoldino Fragoso do Nascimento	Chairman" />
-    <meta property="og:image" content="../imgs//58ef705540099.jpg" />
+    <meta property="og:title" content="News" />
+    <meta property="og:url" content="https://www.cochan.com/en/news" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="https://www.cochan.com/uploads/images//Pan_African.jpg" />
 
     
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Homepage" />
-    <meta name="twitter:description" content="&quot;We believe that investments should be a driver of change,	both within the economy and in society.	There is no reason to have modest ambitions.”Leopoldino Fragoso do Nascimento	Chairman" />
-    <meta name="twitter:url" content="./en" />
-    <meta name="twitter:image" content="../imgs//58ef705540099.jpg" />
+    <meta name="twitter:title" content="News" />
+    <meta name="twitter:description" content="" />
+    <meta name="twitter:url" content="https://www.cochan.com/en/news" />
+    <meta name="twitter:image" content="https://www.cochan.com/uploads/images//Pan_African.jpg" />
 
-    <title>Homepage | Cochan</title>
-    <link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="./css/app.css">
+    <title>News | Cochan</title>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://www.cochan.com/css/app.css">
     <style>
                             .banner-bg {
-                background-image: url('./imgs/58ef705540099.jpg');
+                background-image: url('/uploads/images//Pan_African.jpg');
             }
                 </style>
-    <style>
-.hpa-close {
-    position: absolute;
-    top: 15px;
-    right: 15px;
-    width: 25px;
-    height: 25px;
-    cursor: pointer;
-}
+        <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-
-</style>
-     
+    ga('create', 'UA-98107920-1', 'auto');
+    ga('send', 'pageview');
+    </script>
     <script>
     window.addEventListener("load", function(){
     window.cookieconsent.initialise({
@@ -74,21 +70,18 @@
 </head>
 <body class='fade-out'>
     <div class="page_container">
-                    <header class=" home ">
+                    <header class="">
     <div class="menu_content">
-        <div class="logo_menu"><a href="#" class='top_logo'></a></div>
+        <div class="logo_menu"><a href="https://www.cochan.com" class='top_logo'></a></div>
         <div class='top_menu'>
             <ul>
-                                    <li  ><a href="./">Home</a></li>
-                                    <li class='active'><a href="./">About Us</a></li>
-                                    
-                                    <li class='with_sub '><a href="./en/about-cochan">Cochan Group</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Cochan Group</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="./en/about-cochan">About Cochan</a></li><li class=''><a href="./en/chairman-message">Chairman&#039;s Message</a></li><li class=''><a href="./en/management-team">Management Team</a></li><li class=''><a href="./en/mission-and-values">Mission and Values</a></li><li class=''><a href="./en/social-corporate-responsibility">Corporate Social Responsibility</a></li></ul></div></div><li class='with_sub '><a href="./en/business-areas/global-vision">Business Areas</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Business Areas</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="./en/business-areas/global-vision">Global Vision</a></li><li class=''><a href="./en/business-areas/agro-industrial">Agro-Industrial</a></li><li class=''><a href="./en/business-areas/distribution-and-retail">Distribution and Retail</a></li><li class=''><a href="./en/business-areas/energy">Energy</a></li><li class=''><a href="./en/business-areas/real-estate">Real Estate</a></li><li class=''><a href="./en/business-areas/transport-and-logistics">Transport and Logistics</a></li></ul></div></div><li class='with_sub '><a href="./en/news">Media Room</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Media Room</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="./en/news">News</a></li><li class=''><a href="./en/comunicados-de-imprensa-en">Press Releases</a></li><li class=''><a href="./en/photos-video">Photos &amp; Videos</a></li><li class=''><a href="./en/media-room-contactos">Press Contacts</a></li></ul></div></div><li class=''><a href="./en/contacts">Contacts</a></li>
+                                    <li class=''><a href="https://www.cochan.com/en">Home</a></li><li class='with_sub '><a href="https://www.cochan.com/en/about-cochan">Cochan Group</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Cochan Group</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="https://www.cochan.com/en/about-cochan">About Cochan</a></li><li class=''><a href="https://www.cochan.com/en/chairman-message">Chairman&#039;s Message</a></li><li class=''><a href="https://www.cochan.com/en/management-team">Management Team</a></li><li class=''><a href="https://www.cochan.com/en/mission-and-values">Mission and Values</a></li><li class=''><a href="https://www.cochan.com/en/social-corporate-responsibility">Corporate Social Responsibility</a></li></ul></div></div><li class='with_sub '><a href="https://www.cochan.com/en/business-areas/global-vision">Business Areas</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Business Areas</h3><hr class="bluebar"></div><ul class="links"><li class=''><a href="https://www.cochan.com/en/business-areas/global-vision">Global Vision</a></li><li class=''><a href="https://www.cochan.com/en/business-areas/agro-industrial">Agro-Industrial</a></li><li class=''><a href="https://www.cochan.com/en/business-areas/distribution-and-retail">Distribution and Retail</a></li><li class=''><a href="https://www.cochan.com/en/business-areas/energy">Energy</a></li><li class=''><a href="https://www.cochan.com/en/business-areas/real-estate">Real Estate</a></li><li class=''><a href="https://www.cochan.com/en/business-areas/transport-and-logistics">Transport and Logistics</a></li></ul></div></div><li class='with_sub active'><a href="https://www.cochan.com/en/news">Media Room</a></li><div class="sub_header"><div class="content"><div class="text"><h3 class="blue-title">Media Room</h3><hr class="bluebar"></div><ul class="links"><li class='active'><a href="https://www.cochan.com/en/news">News</a></li><li class=''><a href="https://www.cochan.com/en/comunicados-de-imprensa-en">Press Releases</a></li><li class=''><a href="https://www.cochan.com/en/photos-video">Photos &amp; Videos</a></li><li class=''><a href="https://www.cochan.com/en/media-room-contactos">Press Contacts</a></li></ul></div></div><li class=''><a href="https://www.cochan.com/en/contacts">Contacts</a></li>
                             </ul>
         </div>
         <div class="top_right">
                         <ul class='top_lang'>
-                <li class=""><a href="/pt/">PT</a></li>
-                <li class="active"><a href="./en">EN</a></li>
+                <li class=""><a href="/pt/noticias">PT</a></li>
+                <li class="active"><a href="https://www.cochan.com/en/news">EN</a></li>
             </ul>
             <div class='top_search'><i class="fa fa-search" aria-hidden="true"></i></div>
             <div class="new_top_buttons">
@@ -102,7 +95,7 @@
                         <i class="fa fa-angle-left" aria-hidden="true"></i>
                     </button>
                     <a class="logo-link" href="/">
-                        <img class="bola-logo" src="./imgs/bola-branca.png">
+                        <img class="bola-logo" src="/images/bola-branca.png">
                     </a>
                 </div>
             </div>
@@ -111,8 +104,8 @@
 
     </div>
 </header>
-<div class="search-box  home ">
-  <form action="./en/search">
+<div class="search-box ">
+  <form action="https://www.cochan.com/en/search">
       <input type="text" name="search" placeholder="Search" />
       <button aria-hidden="true"><i class="fa  fa-arrow-circle-o-right"></i></button>
       <button class="search_close" aria-hidden="true"><i class="fa fa-close"></i></button>
@@ -122,273 +115,251 @@
         
         
 
-        <div class='wrapper  home '>
+        <div class='wrapper '>
 
-                            <section class='banner big-bg banner-bg'>
+                            <section class='banner  banner-bg'>
 
         
-                    <div class="overlay one"></div>
-            <div class="overlay two"></div>
-            <img class="banner-logo" src="./imgs/logo-home.png">
+                    <div class="overlay three"></div>
         
         <div class="content">
-                        <h1 class="banner-title  misto  ">
-                Executive <span>Internation Trading </span>
+                        <h1 class="banner-title  ">
+                News
             </h1>
-                                        <hr class="banner-hr">
-                                        <p>We are dealing with copper, cobalt diamonds and gold<br/>
-We deal with frozen products such as frozen chicken, frozen beef. We also trade in sugar, rice, soybeans, edible oil, corn, pasta, dairy etc
-<br/>
-Interested parties must get in touch with the company through our phone numbers and email address
+                                </div>
 
-</p>
-                               
-
-                                    </div>
-
-                <div class="mouse_container">
-            <img src="./imgs/scroll.svg">
-            <img class="st" src="./imgs/arrow.svg">
-        </div>
             </section>
             
-            <div class='page_standard  full '>
+            <div class='page_standard '>
+                                <div class='leftmenu_container'>
+                    <div class='leftmenu'>
+                        <h2 class="side-title">Media Room</h2>
+                        <hr class="side-hr">
+                        <ul class="side-list">
+                                                                                <li class="active"><a href="https://www.cochan.com/en/news">News</a></li>
+                                                                                                            <li class=""><a href="https://www.cochan.com/en/comunicados-de-imprensa-en">Press Releases</a></li>
+                                                                                                            <li class=""><a href="https://www.cochan.com/en/photos-video">Photos &amp; Videos</a></li>
+                                                                                                            <li class=""><a href="https://www.cochan.com/en/media-room-contactos">Press Contacts</a></li>
+                                                                            </ul>
+                    </div>
+                </div>
                 
-                <div class='page  full '>
+                <div class='page '>
                     <a name="topo"></a>
-                    <section class='homepage-areas'>
-            <div class='hparea'>
-            <div class='hpa-image'>
-                <div class="overlay background" style="background-image:url('./imgs//homepage-area-agro.jpg')"></div>
-                <div class="overlay one"></div>
-                <div class="hpa-image-content">
-                    <h3 class="hpa-title">Agro-<wbr>Industrial</h3>
-                    <h3 class="hpa-title hover">Positive <span>Investment</span></h3>
-                    <hr class="hpa-hr">
-                    <h4 class="hpa-subtitle">Transform <span>our land.</span></h4>
-                    <span class="hpa-button"><img src="./imgs/area-button.png" alt=""></span>
-                </div>
-            </div>
+                        <section class=" mobile-padding">
+                        <div class="triple-div nos-media">
+        <div class="triple-child">
+        <div class="photo">
 
-            <div class='hpa-content'>
-                <span class="hpa-close"><img src="imgs/btn-fechar.svg"></span>
-                <div class="hpa-text-content">
-                    <h4 class="misto-title">Agro-industrial</h4>
+        <a href="http://www.africanbusinessreview.co.za/magazine/sliderIssue?id=1"  target="_blank" >
+            <div class="photo-wrapper">
+                            <img src="/uploads/images//coverBusinessReview.PNG" alt="">
+                        </div>
+        </a>
+        </div>        
+        <div class="text">
+            <h6 class="data">01.09.2017</h6>
 
-<hr class="bluebar" />
-<div class="statitics-flex">
-	<div class="statitics-child">
-		<div class="div-borders blue">
-			<p class="blue-big-numbers">70,196</p>
+<h3 class="triple-title"><a href='http://www.africanbusinessreview.co.za/magazine/sliderIssue?id=1' target='_blank'>Inside Biocom's $1bn, 80,000-hectare Angolan sugarcane enterprise <i class='fa fa-link' aria-hidden='true'></i></a></h3>
 
-			<p class="blue-little-text"><strong>hectares</strong><br />
-				OF ARABLE LAND UTILISED</p>
-		</div>
-	</div>
-</div>
-
-<p style="font-size: 14px; text-align: justify">The agro-industrial sector is a powerful tool for the diversification and growth of the Angolan economy. Both the agricultural and industrial sectors play a key role in the reduction of importation costs and in employment growth. Cochan has investments in Biocom, DT Agro, Priority and Pangolé.</p>
-
-<div class="marcas_container"><img alt="" class="marca" src="./imgs/biocom.png" /><img alt="" class="marca" src="./imgs/dtagro2.png" /><img alt="" class="marca" src="./imgs/priority2.png" /><img alt="" class="marca" src="./imgs/pagole2.png" /></div>
-
-<p><a class="button white" href="#">More information</a></p>
-
-                </div>
-            </div>
         </div>
-            <div class='hparea'>
-            <div class='hpa-image'>
-                <div class="overlay background" style="background-image:url('./imgs/KERO_foto_1010x840.jpg')"></div>
-                <div class="overlay one"></div>
-                <div class="hpa-image-content">
-                    <h3 class="hpa-title">Distribution <br><span>and Retail</span></h3>
-                    <h3 class="hpa-title hover">Positive <span>Investment</span></h3>
-                    <hr class="hpa-hr">
-                    <h4 class="hpa-subtitle">Promote <span>what is ours.</span></h4>
-                    <span class="hpa-button"><img src="./imgs/area-button.png" alt=""></span>
-                </div>
-            </div>
+    </div>
+        <div class="triple-child">
+        <div class="photo">
 
-            <div class='hpa-content'>
-                <span class="hpa-close"><img src="imgs/btn-fechar.svg"></span>
-                <div class="hpa-text-content">
-                    <h4 class="misto-title">Distribution and Retail</h4>
+        <a href="/en/media-room/cochan-in-media/xiami-shopping-kilamba" >
+            <div class="photo-wrapper">
+                            <img src="/uploads/images//Xiami_Shopping_Kilamba_-_cover_PT_EN.jpg" alt="">
+                        </div>
+        </a>
+        </div>        
+        <div class="text">
+            <h6 class="data">05.08.2017</h6>
 
-<hr class="bluebar" />
-<div class="statitics-flex">
-	<div class="statitics-child">
-		<div class="div-borders blue">
-			<p class="blue-big-numbers">178</p>
+<h3 class="triple-title"><a href='/en/media-room/cochan-in-media/xiami-shopping-kilamba'>Mário lourenço´s comments on Xyami Shopping Kilamba <i class='fa fa-arrow-circle-o-right' aria-hidden='true'></i></a></h3>
 
-			<p class="blue-little-text"><strong>milLION </strong>items sold to 15,3&nbsp;million customers in 2016</p>
-		</div>
-	</div>
-</div>
-
-<p style="font-size: 14px; text-align: justify">Angola is the third African country with the best conditions for growth of the retail sector. There are over 12,500 hypermarkets, supermarkets and convenience retailers. Cochan invests in Kero, the largest hypermarket chain in the country, which is operated by Zahara Comércio.</p>
-
-<div class="marcas_container"><img alt="" class="marca" src="./imgs/kero.png" /></div>
-
-<p><a class="button white" href="/en/business-areas/distribution-and-retail">More information</a></p>
-
-                </div>
-            </div>
         </div>
-            <div class='hparea'>
-            <div class='hpa-image'>
-                <div class="overlay background" style="background-image:url('./imgs//homepage-area-ener.jpg')"></div>
-                <div class="overlay one"></div>
-                <div class="hpa-image-content">
-                    <h3 class="hpa-title">Energy</h3>
-                    <h3 class="hpa-title hover">Positive <span>Investment</span></h3>
-                    <hr class="hpa-hr">
-                    <h4 class="hpa-subtitle">Energy <span>for development.</span></h4>
-                    <span class="hpa-button"><img src="./imgs/area-button.png" alt=""></span>
-                </div>
-            </div>
+    </div>
+        <div class="triple-child">
+        <div class="photo">
 
-            <div class='hpa-content'>
-                <span class="hpa-close"><img src="imgs/btn-fechar.svg"></span>
-                <div class="hpa-text-content">
-                    <h4 class="misto-title">Energy</h4>
+        <a href="/en/media-room/cochan-in-media/angola-diversifying-growth" >
+            <div class="photo-wrapper">
+                            <img src="/uploads/images//Angola_-_cover_PT_EN-1.jpg" alt="">
+                        </div>
+        </a>
+        </div>        
+        <div class="text">
+            <h6 class="data">02.08.2017</h6>
 
-<hr class="bluebar" />
-<div class="statitics-flex">
-	<div class="statitics-child">
-		<div class="div-borders blue">
-			<p class="blue-big-numbers">11,000</p>
+<h3 class="triple-title"><a href='/en/media-room/cochan-in-media/angola-diversifying-growth'>Diversifying Ecomonic Growth in Angola by Leopoldino Fragoso do Nascimento <i class='fa fa-arrow-circle-o-right' aria-hidden='true'></i></a></h3>
+<p><resumo a="" incluir=""></resumo></p>
 
-			<p class="blue-little-text">training hours for workers in 2016</p>
-		</div>
-	</div>
-</div>
-
-<p style="font-size: 14px; text-align:justify">In 2016, Angola took the lead in oil production amongst African countries. Due to the importance of this sector for the country’s development, Cochan has investments in Puma Energy, which trades as Pumangol one of the major fuel retailers in the Angolan market.</p>
-
-<p><img alt="" class="marca" src="./imgs/Puma_Energy_Logo.jpg" /></p>
-
-<p><a class="button white" href="/en/business-areas/energy">More information</a></p>
-
-                </div>
-            </div>
         </div>
-            <div class='hparea'>
-            <div class='hpa-image'>
-                <div class="overlay background" style="background-image:url('./imgs//homepage-area-imo.jpg')"></div>
-                <div class="overlay one"></div>
-                <div class="hpa-image-content">
-                    <h3 class="hpa-title">Real Estate</h3>
-                    <h3 class="hpa-title hover">Positive <span>Investment</span></h3>
-                    <hr class="hpa-hr">
-                    <h4 class="hpa-subtitle">Helps build <span>a better future.</span></h4>
-                    <span class="hpa-button"><img src="./imgs/area-button.png" alt=""></span>
-                </div>
-            </div>
+    </div>
+        <div class="triple-child">
+        <div class="photo">
 
-            <div class='hpa-content'>
-                <span class="hpa-close"><img src="imgs/btn-fechar.svg"></span>
-                <div class="hpa-text-content">
-                    <h4 class="misto-title">Real Estate</h4>
+        <a href="https://www.howwemadeitinafrica.com/meet-boss-mario-lourenco-ceo-cochan-group/59125/"  target="_blank" >
+            <div class="photo-wrapper">
+                            <img src="/uploads/images//website-framed-logos_6.jpg" alt="">
+                        </div>
+        </a>
+        </div>        
+        <div class="text">
+            <h6 class="data">04.07.2017</h6>
 
-<hr class="bluebar" />
-<div class="statitics-flex">
-	<div class="statitics-child">
-		<div class="div-borders blue">
-			<p class="blue-big-numbers">911</p>
+<h3 class="triple-title"><a href='https://www.howwemadeitinafrica.com/meet-boss-mario-lourenco-ceo-cochan-group/59125/' target='_blank'>Meet the Boss: Mário Lourenço, CEO, Cochan Group <i class='fa fa-link' aria-hidden='true'></i></a></h3>
 
-			<p class="blue-little-text">million USD invested<br />
-				in high-end real estate projects</p>
-		</div>
-	</div>
-</div>
-
-<p style="font-size: 14px; text-align:justify">Development of the real estate sector is an important contributor to the diversification of the Angolan economy and is increasingly attractive for foreign investors. In this sector, Cochan invests in Kinaxixi real estate ventures.</p>
-
-<div class="marcas_container"><img alt="" class="marca" src="./imgs/58ee061d456da.png" /><img alt="" class="marca" src="./imgs/xiamy.png" /><img alt="" class="marca" src="./imgs/cine-max-1.png" /></div>
-
-<p><a class="button white" href="/en/business-areas/real-estate">More information</a></p>
-
-                </div>
-            </div>
         </div>
-            <div class='hparea'>
-            <div class='hpa-image'>
-                <div class="overlay background" style="background-image:url('./imgs//homepage-area-trans.jpg')"></div>
-                <div class="overlay one"></div>
-                <div class="hpa-image-content">
-                    <h3 class="hpa-title">Transportation <br><span>and Logistics</span></h3>
-                    <h3 class="hpa-title hover">Positive <span>Investment</span></h3>
-                    <hr class="hpa-hr">
-                    <h4 class="hpa-subtitle">Take us <span>further.</span></h4>
-                    <span class="hpa-button"><img src="./imgs/area-button.png" alt=""></span>
-                </div>
-            </div>
+    </div>
+        <div class="triple-child">
+        <div class="photo">
 
-            <div class='hpa-content'>
-                <span class="hpa-close"><img src="imgs/btn-fechar.svg"></span>
-                <div class="hpa-text-content">
-                    <h4 class="misto-title">Transportation and Logistics</h4>
+        <a href="https://www.howwemadeitinafrica.com/shopping-malls-sugar-cane-investing-angolas-economic-diversification/59060/"  target="_blank" >
+            <div class="photo-wrapper">
+                            <img src="/uploads/images//website-framed-logos_6.jpg" alt="">
+                        </div>
+        </a>
+        </div>        
+        <div class="text">
+            <h6 class="data">28.06.2017</h6>
 
-<hr class="bluebar" />
-<div class="statitics-flex">
-	<div class="statitics-child">
-		<div class="div-borders blue">
-			<p class="blue-big-numbers">5,321,639</p>
+<h3 class="triple-title"><a href='https://www.howwemadeitinafrica.com/shopping-malls-sugar-cane-investing-angolas-economic-diversification/59060/' target='_blank'>Shopping malls and sugar cane: Investing in Angola’s economic diversification <i class='fa fa-link' aria-hidden='true'></i></a></h3>
 
-			<p class="blue-little-text">kilometres Of coverage</p>
-		</div>
-	</div>
-</div>
-
-<p style="font-size: 14px; text-align:justify">Mobility and energy is essential to the growth of each and every economic sector in Angola. Therefore, transportation and logistics plays a vital role in its development. Cochan invests in TransFuel, a market leader in the transportation of fuel and lubricants throughout the country.</p>
-
-<div class="marcas_container"><a href="/en/business-areas/transport-and-logistics"><img alt="" class="marca" src="./imgs/trasnfuel.png" /></a></div>
-
-<p><a class="button white" href="/en/business-areas/transport-and-logistics">More information</a></p>
-
-                </div>
-            </div>
         </div>
-    </section>
+    </div>
+        <div class="triple-child">
+        <div class="photo">
 
-<section class="grupo_cochan_home default">
-        <div class="content">
-	<h2 class="misto-title"><span>Cochan group</span></h2>
+        <a href="https://view.joomag.com/real-estate-investor-magazine-south-africa-real-estate-investor-magazine-june-2017/0519132001496409361?short"  target="_blank" >
+            <div class="photo-wrapper">
+                            <img src="/uploads/images//website-framed-logos_7.jpg" alt="">
+                        </div>
+        </a>
+        </div>        
+        <div class="text">
+            <h6 class="data">02.06.2017</h6>
 
-	<hr class="bluebar" />
-	<p><span lang="EN-GB" style="color:black">Cochan is one of the main business groups in Angola. Established in 2009 by businessman Leopoldino Fragoso do Nascimento, it manages a diversified investment portfolio in the areas of Agriculture, Food Retail, Energy, Real Estate, Industry and Transportation &amp; Logistics. It helps to develop and diversify the Angolan economy. The group’s investments employ more than 13,000 people and follow a positive investment policy.</span></p>
+<h3 class="triple-title"><a href='https://view.joomag.com/real-estate-investor-magazine-south-africa-real-estate-investor-magazine-june-2017/0519132001496409361?short' target='_blank'>Mário Lourenço´s comments on Xyami Shopping Kilamba <i class='fa fa-link' aria-hidden='true'></i></a></h3>
 
-	<div class="statitics-flex">
-		<div class="statitics-child"><img alt="" src="./imgs//_cones-09.png" />
-			<div class="div-borders blue">
-				<p class="blue-little-text">More than</p>
+        </div>
+    </div>
+        <div class="triple-child">
+        <div class="photo">
 
-				<p class="blue-big-numbers">13,000</p>
+        <a href="http://footprint2africa.com/analysis/biocom-inside-angolas-sole-producer-sugar-ethanol-electricity-biomass/"  target="_blank" >
+            <div class="photo-wrapper">
+                            <img src="/uploads/images//website-framed-logos_3.jpg" alt="">
+                        </div>
+        </a>
+        </div>        
+        <div class="text">
+            <h6 class="data">23.05.2017</h6>
 
-				<p class="blue-little-text">Employees through its investments</p>
-			</div>
-		</div>
+<h3 class="triple-title"><a href='http://footprint2africa.com/analysis/biocom-inside-angolas-sole-producer-sugar-ethanol-electricity-biomass/' target='_blank'>Biocom: Inside Angola’s Sole Producer of Sugar, Ethanol and Electricity from Biomass <i class='fa fa-link' aria-hidden='true'></i></a></h3>
 
-		<div class="statitics-child"><img alt="" src="./imgs//_cones-12.png" />
-			<div class="div-borders blue">
-				<p class="blue-little-text"><strong>positive Investment</strong><br />
-					since</p>
+        </div>
+    </div>
+        <div class="triple-child">
+        <div class="photo">
 
-				<p class="blue-big-numbers">2009</p>
-			</div>
-		</div>
+        <a href="http://venturesafrica.com/cochan-group-biocom-sets-to-produce-73000-tonnes-of-sugar-this-year/"  target="_blank" >
+            <div class="photo-wrapper">
+                            <img src="/uploads/images//website-framed-logos_2.jpg" alt="">
+                        </div>
+        </a>
+        </div>        
+        <div class="text">
+            <h6 class="data">22.05.2017</h6>
 
-		<div class="statitics-child"><img alt="" src="./imgs//_cones-05.png" />
-			<div class="div-borders blue">
-				<p class="blue-big-numbers">10</p>
+<h3 class="triple-title"><a href='http://venturesafrica.com/cochan-group-biocom-sets-to-produce-73000-tonnes-of-sugar-this-year/' target='_blank'>Cochan Group’s Biocom set to produce 73,000 tonnes of sugar this year <i class='fa fa-link' aria-hidden='true'></i></a></h3>
 
-				<p class="blue-little-text"><font face="Main Bold"><b>number </b></font>Of <strong>companies</strong> invested in by cochan group</p>
-			</div>
-		</div>
-	</div>
-	<a class="button white" href="/en/about-cochan">&nbsp;more information</a></div>
+        </div>
+    </div>
+        <div class="triple-child">
+        <div class="photo">
 
-        </section>
+        <a href="https://furtherafrica.com/2017/05/19/press-release-angolan-biocom-to-produce-73000-tonnes-of-sugar-this-year/"  target="_blank" >
+            <div class="photo-wrapper">
+                            <img src="/uploads/images//website-framed-logos_1.jpg" alt="">
+                        </div>
+        </a>
+        </div>        
+        <div class="text">
+            <h6 class="data">19.05.2017</h6>
+
+<h3 class="triple-title"><a href='https://furtherafrica.com/2017/05/19/press-release-angolan-biocom-to-produce-73000-tonnes-of-sugar-this-year/' target='_blank'>Angolan Biocom to produce 73,000 tonnes of sugar this year <i class='fa fa-link' aria-hidden='true'></i></a></h3>
+
+        </div>
+    </div>
+        <div class="triple-child">
+        <div class="photo">
+
+        <a href="https://macauhub.com.mo/2017/04/12/grupo-angolano-investe-60-milhoes-de-dolares-no-maior-centro-comercial-de-angola/"  target="_blank" >
+            <div class="photo-wrapper">
+                            <img src="/uploads/images//website-framed-logos_9.jpg" alt="">
+                        </div>
+        </a>
+        </div>        
+        <div class="text">
+            <h6 class="data">15.05.2017</h6>
+
+<h3 class="triple-title"><a href='https://macauhub.com.mo/2017/04/12/grupo-angolano-investe-60-milhoes-de-dolares-no-maior-centro-comercial-de-angola/' target='_blank'>Cochan group invests US$60 million in the largest shopping centre in Angola <i class='fa fa-link' aria-hidden='true'></i></a></h3>
+
+        </div>
+    </div>
+        <div class="triple-child">
+        <div class="photo">
+
+        <a href="https://furtherafrica.com/2017/04/12/press-releasecochan-group-company-opens-the-largest-shopping-centre-in-angola/"  target="_blank" >
+            <div class="photo-wrapper">
+                            <img src="/uploads/images//website-framed-logos_1.jpg" alt="">
+                        </div>
+        </a>
+        </div>        
+        <div class="text">
+            <h6 class="data">12.05.2017</h6>
+
+<h3 class="triple-title"><a href='https://furtherafrica.com/2017/04/12/press-releasecochan-group-company-opens-the-largest-shopping-centre-in-angola/' target='_blank'>Cochan Group Company opens the largest shopping centre in Angola <i class='fa fa-link' aria-hidden='true'></i></a></h3>
+
+        </div>
+    </div>
+        <div class="triple-child">
+        <div class="photo">
+
+        <a href="https://macauhub.com.mo/2017/05/10/companhia-de-bioenergia-de-angola-preve-aumento-da-producao-em-2017/"  target="_blank" >
+            <div class="photo-wrapper">
+                            <img src="/uploads/images//website-framed-logos_9.jpg" alt="">
+                        </div>
+        </a>
+        </div>        
+        <div class="text">
+            <h6 class="data">10.05.2017</h6>
+
+<h3 class="triple-title"><a href='https://macauhub.com.mo/2017/05/10/companhia-de-bioenergia-de-angola-preve-aumento-da-producao-em-2017/' target='_blank'>Angola’s Biocom expects production increase in 2017 <i class='fa fa-link' aria-hidden='true'></i></a></h3>
+
+        </div>
+    </div>
+    </div>        
+                    
+                                        
+            <ul class="pagination">
+        
+                    <li class="disabled"><span>&laquo;</span></li>
+        
+        
+                    
+            
+            
+                                                                        <li class="active"><span>1</span></li>
+                                                                                <li><a href="https://www.cochan.com/en/news?gmb_1=2">2</a></li>
+                                                        
+        
+                    <li><a href="https://www.cochan.com/en/news?gmb_1=2" rel="next">&raquo;</a></li>
+            </ul>
+
+                </section>
                 </div>
             </div>
         </div>
@@ -401,11 +372,11 @@ Interested parties must get in touch with the company through our phone numbers 
     <div class="content">
         <nav class='bottom_menu'>
             <ul>
-                <li><a href="#">Home</a>
-                <li><a href="#">Cochan Group</a>
-                <li class="menu-mobile"><a href="#">Terms &amp; Conditions</a>
-                <li class="menu-mobile"><a href="#">Site Map</a>
-                <li><a href="#">Contacts</a>
+                <li><a href="/en/">Home</a>
+                <li><a href="/en/about-cochan">Cochan Group</a>
+                <li class="menu-mobile"><a href="/en/terms-conditions">Terms &amp; Conditions</a>
+                <li class="menu-mobile"><a href="/en/site-map">Site Map</a>
+                <li><a href="/en/contacts">Contacts</a>
             </ul>
         </nav>
                 <div class='copyright center'>&copy; Copyright 2017 GRUPO COCHAN</div>
@@ -415,10 +386,10 @@ Interested parties must get in touch with the company through our phone numbers 
 </footer>
     </div>
 
-<script src="./js/jquery.min.js"></script>
-<script src="./js/app.js"></script>
-<script src="./js/jquery.waypoints.min.js"></script>
-<script src="./js/inview.min.js"></script>
+<script src="https://www.cochan.com/js/jquery.min.js"></script>
+<script src="https://www.cochan.com/js/app.js"></script>
+<script src="https://www.cochan.com/js/jquery.waypoints.min.js"></script>
+<script src="https://www.cochan.com/js/inview.min.js"></script>
 
 <script>
 // fadein effect
@@ -530,16 +501,6 @@ $(function() {
         scrollTop = $(window).scrollTop();
         if (scrollTop >= 1) {
             var cookiebar = $(".cc-grower").outerHeight();
-                        if(window.matchMedia('(max-width: 768px)').matches){
-                var top = $('.banner .content').offset().top;
-                var height  = $('header').outerHeight();
-
-                if($(window).scrollTop() > top - height + 32){
-                    $('header, .search-box').removeClass('home');
-                }else{
-                    $('header, .search-box').addClass('home');
-                }
-            }
             
             if (cookiebar > 0) {
                 if(window.matchMedia('(max-width: 768px)').matches) {
@@ -562,6 +523,15 @@ $(function() {
 
         }
 
+                $banner = $("section.banner").height();
+        if ((!window.matchMedia('(max-width: 768px)').matches) && ( scrollTop >= $banner)) {
+            $(".leftmenu").addClass("stickit");
+            
+        }
+        else {
+            $(".leftmenu").removeClass("stickit");
+            
+        }
             }
 
     $(".top_search").click(function(e) {
@@ -573,14 +543,6 @@ $(function() {
             $(".search-box input").focus();
         }
 
-                if (window.matchMedia('(max-width: 768px)').matches) {
-            var top = $('.homepage-areas').offset().top;
-            var height  = $('header').outerHeight();
-
-            if ($(".search-box").hasClass("active") && (scrollTop <= top - height)) {
-                $("header").css("opacity", 0);
-            }
-        }
             });
 
     $('.search_close').click(function(e) {
@@ -868,158 +830,6 @@ function fixMenu() {
     }
 }
 
-</script>
-<script type="text/javascript">
-$('.hparea').hover(function(){
-    if($('.hparea.open_full').length == 0){
-        if (window.matchMedia('(min-width: 768px)').matches) {
-            $('.hparea').not(this).addClass('dark');
-            $(this).addClass('hover');
-        }
-    }
-}, function(){
-    if($('.hparea.open_full').length == 0){
-        if (window.matchMedia('(min-width: 768px)').matches) {
-            $('.hparea').not(this).removeClass('dark');
-            $(this).removeClass('hover');
-        }
-    }
-});
-
-$('.hparea .hpa-image').click(function(){
-    $(this).parent().removeClass('hover');
-
-    if (window.matchMedia('(max-width: 768px)').matches) {
-        var el = $(this).parent().find('.hpa-content');
-        var el_currentHeight = el.outerHeight();
-        var el_autoHeight = el.css('height', 'auto').outerHeight();
-        var el_closedHeight = 0;
-    }
-
-    if($(this).parent().hasClass('open_full')){
-
-        if (window.matchMedia('(max-width: 768px)').matches) {
-            el.height(el_currentHeight).animate({height: el_closedHeight}, 500);
-
-            offset = $(this).parent().offset().top;
-            $('html, body').animate({
-                scrollTop: offset - 79
-            }, 1000);
-        }
-
-        $(this).parent().removeClass('open_full');
-
-    }else{
-        if (window.matchMedia('(max-width: 768px)').matches) {
-
-            offset = $(this).parent().offset().top;
-            $('html, body').animate({
-                scrollTop: offset - 79
-            }, 1000);
-
-            el.height(el_currentHeight).animate({height: el_autoHeight}, 500);
-        }
-
-        $(this).parent().addClass('open_full');
-    }
-});
-
-$(".hpa-close").on("click", function() {
-    var el = $(this).parent();
-
-    if (window.matchMedia('(max-width: 768px)').matches) {
-        var el_currentHeight = el.outerHeight();
-
-        el.height(el_currentHeight).animate({height: 0}, 500);
-    }
-
-    el.parent().removeClass("open_full");
-});
-
-$(".mouse_container").on("click", function() {
-    if (window.matchMedia('(min-width: 769px)').matches) {
-        var top = $('.homepage-areas').offset().top;
-        var height  = $('header').outerHeight();
-
-        offset = top - height + 1;
-
-        $('html, body').animate({
-            scrollTop: offset
-        }, 1000);
-    }
-});
-
-$(window).resize(function(){
-    resetValues();
-});
-var hpaState = -1;
-
-function resetValues(){
-    // reset a todos os elementos
-    if (window.matchMedia('(min-width: 769px)').matches) {
-        if (hpaState != 1) {
-            $('.hpa-content').css("height", "");
-            $('.hparea').removeClass('hover dark open_full');
-        }
-        hpaState = 1;
-    }else{
-        if (hpaState == 1) {
-            $('.hpa-content').css("height", "");
-            $('.hparea').removeClass('hover dark open_full');
-        }
-        hpaState = 0;
-    }
-}
-
-var inview1 = new Waypoint.Inview({
-    element: $('.banner-logo')[0],
-    enter: function(direction) {
-        if (window.matchMedia('(min-width: 768px)').matches) {
-            $(this.element).css({
-                'top': '50%',
-                'opacity': 1,
-            });
-        }
-    },
-    entered: function(direction) {
-
-    },
-    exit: function(direction) {
-
-    },
-    exited: function(direction) {
-
-    }
-});
-
-var inview4 = new Waypoint.Inview({
-    element: $('.mouse_container')[0],
-    enter: function(direction) {
-        $(this.element).css({
-            '-webkit-transform:': 'translateY(0%)',
-            'transform': 'translateY(0%)',
-            'opacity': 1,
-        });
-    },
-    entered: function(direction) {
-
-    },
-    exit: function(direction) {
-
-    },
-    exited: function(direction) {
-    }
-});
-
-var inview5  = $('.banner-title').waypoint(function(direction) {
-    if (window.matchMedia('(min-width: 769px)').matches) {
-        $('.hparea').css({
-            'top': '0%',
-        });
-    }
-}, {
-  offset: '160px',
-})
 </script>
 </body>
 </html>
