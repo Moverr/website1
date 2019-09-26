@@ -4695,7 +4695,7 @@ input[type="checkbox"]:checked + .checkbox::before {
 }
 
 .hpa-text-content p {
-  max-width: 500px;
+  /* max-width: 500px; */
 }
 
 @media (min-width: 769px) {
