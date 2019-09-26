@@ -162,6 +162,7 @@ Interested parties must get in touch with the company through our phone numbers 
                 <div class='page  full '>
                     <a name="topo"></a>
                     <section class='homepage-areas'>
+ <!-- COPPER -->
             <div class='hparea'>
             <div class='hpa-image'>
                 <div class="overlay background" style="background-image:url('./imgs//homepage-area-agro.jpg')"></div>
@@ -191,16 +192,19 @@ Interested parties must get in touch with the company through our phone numbers 
             </div>
         </div>
 
-        
-            <div class='hparea'>
+        <!--  END COPPER -->
+        <!-- COBALT -->
+
+
+        <div class='hparea'>
             <div class='hpa-image'>
-                <div class="overlay background" style="background-image:url('./imgs/KERO_foto_1010x840.jpg')"></div>
+                <div class="overlay background" style="background-image:url('./imgs//homepage-area-agro.jpg')"></div>
                 <div class="overlay one"></div>
                 <div class="hpa-image-content">
-                    <h3 class="hpa-title">Distribution <br><span>and Retail</span></h3>
-                    <h3 class="hpa-title hover">Positive <span>Investment</span></h3>
+                    <h3 class="hpa-title">COPPER<br/> PRODUCT</h3>
+                    <h3 class="hpa-title hover">COPPER IS A MINERAL <span>PRODUCT</span></h3>
                     <hr class="hpa-hr">
-                    <h4 class="hpa-subtitle">Promote <span>what is ours.</span></h4>
+                    <h4 class="hpa-subtitle"> <span></span></h4>
                     <span class="hpa-button"><img src="./imgs/area-button.png" alt=""></span>
                 </div>
             </div>
@@ -208,105 +212,22 @@ Interested parties must get in touch with the company through our phone numbers 
             <div class='hpa-content'>
                 <span class="hpa-close"><img src="imgs/btn-fechar.svg"></span>
                 <div class="hpa-text-content">
-                    <h4 class="misto-title">Distribution and Retail</h4>
+                    <h4 class="misto-title">Copper is a mineral product</h4>
 
-<hr class="bluebar" />
-<div class="statitics-flex">
-	<div class="statitics-child">
-		<div class="div-borders blue">
-			<p class="blue-big-numbers">178</p>
-
-			<p class="blue-little-text"><strong>milLION </strong>items sold to 15,3&nbsp;million customers in 2016</p>
-		</div>
-	</div>
-</div>
-
-<p style="font-size: 14px; text-align: justify">Angola is the third African country with the best conditions for growth of the retail sector. There are over 12,500 hypermarkets, supermarkets and convenience retailers. Cochan invests in Kero, the largest hypermarket chain in the country, which is operated by Zahara Comércio.</p>
-
-<div class="marcas_container"><img alt="" class="marca" src="./imgs/kero.png" /></div>
-
-<p><a class="button white" href="/en/business-areas/distribution-and-retail">More information</a></p>
+                    <p style="max-width:700px !important; text-align:justify; font-weight:400; font-size:14px; " >dealers suppliers stockiest exporters manufacturers importers  authorize dealers for all type of copper products in india. type M copper pipes , type K copper pipes, Type L copper pipes, copper welding rods copper pipes fitting, special copper alloy, grade A mix copeer, copper alloy flat products, copper bearings, imported beryllium copper alloy, copper bricks, copper bushes, indian copper pipes imported copper pipes, copper bolts and nuts copper casting copper parts, copper bolted lugs,copper rings, copper casted products   dealers veer enterprise vardhman bearings vardhman engineers arihant engineers ranjanaarts india. 
+   </p> 
+      
+ 
+ 
+<p ><a class="button white" href="#">More information</a></p>
 
                 </div>
             </div>
         </div>
-            <div class='hparea'>
-            <div class='hpa-image'>
-                <div class="overlay background" style="background-image:url('./imgs//homepage-area-ener.jpg')"></div>
-                <div class="overlay one"></div>
-                <div class="hpa-image-content">
-                    <h3 class="hpa-title">Energy</h3>
-                    <h3 class="hpa-title hover">Positive <span>Investment</span></h3>
-                    <hr class="hpa-hr">
-                    <h4 class="hpa-subtitle">Energy <span>for development.</span></h4>
-                    <span class="hpa-button"><img src="./imgs/area-button.png" alt=""></span>
-                </div>
-            </div>
 
-            <div class='hpa-content'>
-                <span class="hpa-close"><img src="imgs/btn-fechar.svg"></span>
-                <div class="hpa-text-content">
-                    <h4 class="misto-title">Energy</h4>
+<!-- End CObalt --> 
 
-<hr class="bluebar" />
-<div class="statitics-flex">
-	<div class="statitics-child">
-		<div class="div-borders blue">
-			<p class="blue-big-numbers">11,000</p>
-
-			<p class="blue-little-text">training hours for workers in 2016</p>
-		</div>
-	</div>
-</div>
-
-<p style="font-size: 14px; text-align:justify">In 2016, Angola took the lead in oil production amongst African countries. Due to the importance of this sector for the country’s development, Cochan has investments in Puma Energy, which trades as Pumangol one of the major fuel retailers in the Angolan market.</p>
-
-<p><img alt="" class="marca" src="./imgs/Puma_Energy_Logo.jpg" /></p>
-
-<p><a class="button white" href="/en/business-areas/energy">More information</a></p>
-
-                </div>
-            </div>
-        </div>
-            <div class='hparea'>
-            <div class='hpa-image'>
-                <div class="overlay background" style="background-image:url('./imgs//homepage-area-imo.jpg')"></div>
-                <div class="overlay one"></div>
-                <div class="hpa-image-content">
-                    <h3 class="hpa-title">Real Estate</h3>
-                    <h3 class="hpa-title hover">Positive <span>Investment</span></h3>
-                    <hr class="hpa-hr">
-                    <h4 class="hpa-subtitle">Helps build <span>a better future.</span></h4>
-                    <span class="hpa-button"><img src="./imgs/area-button.png" alt=""></span>
-                </div>
-            </div>
-
-            <div class='hpa-content'>
-                <span class="hpa-close"><img src="imgs/btn-fechar.svg"></span>
-                <div class="hpa-text-content">
-                    <h4 class="misto-title">Real Estate</h4>
-
-<hr class="bluebar" />
-<div class="statitics-flex">
-	<div class="statitics-child">
-		<div class="div-borders blue">
-			<p class="blue-big-numbers">911</p>
-
-			<p class="blue-little-text">million USD invested<br />
-				in high-end real estate projects</p>
-		</div>
-	</div>
-</div>
-
-<p style="font-size: 14px; text-align:justify">Development of the real estate sector is an important contributor to the diversification of the Angolan economy and is increasingly attractive for foreign investors. In this sector, Cochan invests in Kinaxixi real estate ventures.</p>
-
-<div class="marcas_container"><img alt="" class="marca" src="./imgs/58ee061d456da.png" /><img alt="" class="marca" src="./imgs/xiamy.png" /><img alt="" class="marca" src="./imgs/cine-max-1.png" /></div>
-
-<p><a class="button white" href="/en/business-areas/real-estate">More information</a></p>
-
-                </div>
-            </div>
-        </div>
+            
             <div class='hparea'>
             <div class='hpa-image'>
                 <div class="overlay background" style="background-image:url('./imgs//homepage-area-trans.jpg')"></div>
