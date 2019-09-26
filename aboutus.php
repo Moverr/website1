@@ -280,11 +280,10 @@
     <div class="content">
         <nav class='bottom_menu'>
             <ul>
-                <li><a href="./">Home</a>
-                <li><a href="#">Cochan Group</a>
-                <li class="menu-mobile"><a href="#">Terms &amp; Conditions</a>
-                <li class="menu-mobile"><a href="#">Site Map</a>
-                <li><a href="/en/contacts">Contacts</a>
+            <li><a href="./">Home</a>
+                <li><a href="./aboutus.php">About Us</a>
+                <li class="menu-mobile"><a href="#">What we do </a>
+                <li class="menu-mobile"><a href="#">Contact Us</a>
             </ul>
         </nav>
                 <div class='copyright center'>&copy;  2019</div>
