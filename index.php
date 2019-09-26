@@ -183,16 +183,15 @@ Interested parties must get in touch with the company through our phone numbers 
                     <p style="max-width:700px !important; text-align:justify; font-weight:400; font-size:14px; " >dealers suppliers stockiest exporters manufacturers importers  authorize dealers for all type of copper products in india. type M copper pipes , type K copper pipes, Type L copper pipes, copper welding rods copper pipes fitting, special copper alloy, grade A mix copeer, copper alloy flat products, copper bearings, imported beryllium copper alloy, copper bricks, copper bushes, indian copper pipes imported copper pipes, copper bolts and nuts copper casting copper parts, copper bolted lugs,copper rings, copper casted products   dealers veer enterprise vardhman bearings vardhman engineers arihant engineers ranjanaarts india. 
    </p> 
       
-<div class="statitics-flex">
-
-</div>
-
+ 
  
 <p ><a class="button white" href="#">More information</a></p>
 
                 </div>
             </div>
         </div>
+
+        
             <div class='hparea'>
             <div class='hpa-image'>
                 <div class="overlay background" style="background-image:url('./imgs/KERO_foto_1010x840.jpg')"></div>
